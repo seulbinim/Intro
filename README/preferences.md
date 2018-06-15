@@ -25,6 +25,7 @@
 1. Git [다운로드](https://git-scm.com/downloads)
 2. Git [간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)  
 3. Git 초기설정 [시작하기](https://goo.gl/hqYsPC)
+4. 누구나 쉽게 이해할 수 있는 [Git입문](https://backlog.com/git-tutorial/kr/)
 4. Github [가입하기](https://github.com/)
 
 ## NVM 
