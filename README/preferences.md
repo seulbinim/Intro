@@ -8,8 +8,9 @@
 1. Web Developer  
 2. HeadingsMap  
 3. OpenWAX  
-4. ColorPick Eyedropper  
-5. Viewport Resizer  
+4. ColorZilla   
+5. WhatFont 
+6. Viewport Resizer  
 
 ## 에디터 및 확장 프로그램과 Code Theme
 1. Visual Studio Code [다운로드](https://code.visualstudio.com/)
