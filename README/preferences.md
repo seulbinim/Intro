@@ -17,7 +17,10 @@
 2. 보기 -> 확장 -> 실습에 필요한 항목 검색 후 설치  
    * Live Server   
    * Prettier-Code Formatter  
-   * CSS Peek  
+   * Auto Close Tag 
+   * Auto Rename Tag 
+   * HTML Snippets  
+   * CSS Peek
    * vscode-icons  
    * Atom Keymap   
    * Monokai-Contrast Theme 
